@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">We are a passionate  developer community from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonetimbilisimsistemleri&label=Profile%20views&color=0e75b6&style=flat" alt="yonetimbilisimsistemleri" /> </p>
 
